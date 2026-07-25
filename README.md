@@ -1,6 +1,6 @@
 # Comparative Text Analytics of Airline Customer Reviews
 
-<img width="596" height="335" alt="images" src="https://github.com/user-attachments/assets/391ba303-4c23-47b8-bbc3-9f2cc1af91e4" />
+<img width="700" height="335" alt="images" src="https://github.com/user-attachments/assets/391ba303-4c23-47b8-bbc3-9f2cc1af91e4" />
 
 
 ## Project Description
