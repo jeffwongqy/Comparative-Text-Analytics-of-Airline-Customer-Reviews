@@ -1,4 +1,4 @@
-# Comparative Text Analytics of Airline Passengers’ Satisfaction 
+# Comparative Text Analytics of British Airways and United Airlines Customer Reviews Using Orange
 
 
 ## Project Description
