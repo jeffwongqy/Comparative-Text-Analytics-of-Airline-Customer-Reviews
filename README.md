@@ -1,3 +1,7 @@
+<img width="450" height="100" alt="Screenshot 2026-08-02 122800" src="https://github.com/user-attachments/assets/48847e21-15ea-45c0-97eb-004ff0799bbc" />
+
+#### _Capstone Project 2021 for Specialist Diploma in Applied Artificial Intelligence_
+
 # Comparative Text Analytics of British Airways and United Airlines Customer Reviews Using Orange
 
 
